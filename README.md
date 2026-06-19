@@ -13,6 +13,14 @@
 📧 **mcrisgs09@gmail.com**
 
 
+  <a href="mailto:mcrisgs09@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+  </a>
+</p>
+
+📧 **mcrisgs09@gmail.com**
+
+
 ## 💻 Tecnologias
 
 ### 🔹 Back-end
