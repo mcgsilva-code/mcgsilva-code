@@ -10,8 +10,6 @@
   </a>
 </p>
 
-📧 **mcrisgs09@gmail.com**
-
 
 
 ## 💻 Tecnologias
