@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
-**Ferramenta utilizada:** pgAdmin
+🧩 **Ferramenta utilizada:** pgAdmin
 
 ### 🔹 Testes de API
 <p align="left">
