@@ -1,4 +1,10 @@
-## Hi there 👋
+# 📬 Contato
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariacg-silva)
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat&logo=gmail)](mailto:mcrisgs09@gmail.com)
+
+📧 **mcrisgs09@gmail.com**
+
 
 <!--
 **mcgsilva-code/mcgsilva-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
