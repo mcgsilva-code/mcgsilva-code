@@ -1,7 +1,16 @@
 # 📬 Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariacg-silva)
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat&logo=gmail)](mailto:mcrisgs09@gmail.com)
+## 📬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariacg-silva" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+
+  <a href="mailto:mcrisgs09@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+  </a>
+</p>
 
 📧 **mcrisgs09@gmail.com**
 
